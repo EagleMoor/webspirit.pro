@@ -1,8 +1,67 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster|Marck+Script&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic);
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #606c71;
+}
 
 .page-header {
-    color: #fff;
     text-align: center;
     background-color: #159957;
     background-image: linear-gradient(120deg, #155799, #159957);
+
+    font-family: 'Lobster', cursive;
+
+    padding-top: 2em;
+    padding-bottom: 4em;
+}
+.page-header>* {
+    color: #ffffff;
+}
+.page-header h1 {
+    font-size: 6.250em;
+
+    text-shadow: 1px 1px 10px #159957, 5px 5px 10px red;
+}
+.page-header h2 {
+    font-size: 2em;
+}
+
+.page-body {
+    padding: 32px 96px;
+    /*font-size: 1.125em;*/
+    font-size: 1.1em;
+}
+.page-body h3 {
+    box-sizing: border-box;
+    color: #159957;
+    display: block;
+
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.313em;
+    line-height: 1.875em;
+    font-weight: normal;
+
+    margin-bottom: 16px;
+    margin-top: 32px;
+}
+.page-body p {
+    box-sizing: border-box;
+    color: #606C71;
+    display: block;
+
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.625em;
+    font-size: 1.125em;
+
+    margin-bottom: 17px;
+}
+sup {
+    position: relative;
+    top: -0.5em;
+    vertical-align: baseline;
+    color: #159957;
+    font-size: 75%;
 }
