@@ -7,6 +7,15 @@ body {
     color: #606c71;
 }
 
+a {
+    text-decoration: none;
+    color: #159957;
+}
+a:hover {
+    text-decoration: underline;
+    color: #159957;
+}
+
 .page-header {
     text-align: center;
     background-color: #159957;
@@ -34,6 +43,14 @@ body {
     /*font-size: 1.125em;*/
     font-size: 1.1em;
 }
+
+@media screen and (min-width: 42em) {
+    .page-body {
+        padding: 32px;
+        font-size: 1em;
+    }
+}
+
 .page-body h3 {
     box-sizing: border-box;
     color: #159957;
