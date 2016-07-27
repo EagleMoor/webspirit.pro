@@ -1,12 +1,13 @@
 @font-face {
-    font-family: "Brush Script MT";
-    src: url('BRUSHSCI.TTF');
+    font-family: "BrushScriptMT";
+    src: url('/stylesheets/BRUSHSCI.TTF');
 }
 
 .project-name, .project-tagline {
-    font-family: "Brush Script MT" !important;
+    font-family: BrushScriptMT, "Brush Script MT" !important;
     font-style: italic;
     font-size: 8em;
+    font-weight: normal;
     /*color: #ffd700;*/
 
     background-color: #ffd700;
