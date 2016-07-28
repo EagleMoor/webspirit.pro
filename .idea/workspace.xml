@@ -2,25 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546e566a-0b66-4def-b386-81341e73d7eb" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/back/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/back/CNAME" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/brushsci-webfont.woff" afterPath="$PROJECT_DIR$/back/brushsci-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/brushsci-webfont.woff2" afterPath="$PROJECT_DIR$/back/brushsci-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/back/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/map.png" afterPath="$PROJECT_DIR$/back/map.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/params.json" afterPath="$PROJECT_DIR$/back/params.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stylesheets/BRUSHSCI.TTF" afterPath="$PROJECT_DIR$/back/stylesheets/BRUSHSCI.TTF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stylesheets/eaglemoor.css" afterPath="$PROJECT_DIR$/back/stylesheets/eaglemoor.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stylesheets/github-light.css" afterPath="$PROJECT_DIR$/back/stylesheets/github-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stylesheets/normalize.css" afterPath="$PROJECT_DIR$/back/stylesheets/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/back/stylesheets/stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/brushsci-webfont.woff" afterPath="$PROJECT_DIR$/back/test/brushsci-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/brushsci-webfont.woff2" afterPath="$PROJECT_DIR$/back/test/brushsci-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/generator_config.txt" afterPath="$PROJECT_DIR$/back/test/generator_config.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/index.html" afterPath="$PROJECT_DIR$/back/test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/specimen_files/grid_12-825-55-15.css" afterPath="$PROJECT_DIR$/back/test/specimen_files/grid_12-825-55-15.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/specimen_files/specimen_stylesheet.css" afterPath="$PROJECT_DIR$/back/test/specimen_files/specimen_stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/stylesheet.css" afterPath="$PROJECT_DIR$/back/test/stylesheet.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/brushsci-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/brushsci-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/params.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/stylesheets/BRUSHSCI.TTF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/stylesheets/eaglemoor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/stylesheets/github-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/stylesheets/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/stylesheets/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/brushsci-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/brushsci-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/generator_config.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/specimen_files/grid_12-825-55-15.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/specimen_files/specimen_stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/test/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/hinted-BrushScriptMT.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/hinted-BrushScriptMT.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/hinted-BrushScriptMT.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/hinted-BrushScriptMT.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/hinted-BrushScriptMT.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2/stylesheet.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mystyle.css" afterPath="$PROJECT_DIR$/mystyle.css" />
     </list>
     <ignored path="webspirit.pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,9 +54,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="555">
+              <caret line="37" column="90" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="90" />
+              <folding>
+                <element signature="e#2944#2950#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,11 +68,9 @@
       <file leaf-file-name="mystyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <element signature="e#299#2652#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="661">
+              <caret line="179" column="1" selection-start-line="179" selection-start-column="1" selection-end-line="179" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,24 +143,7 @@
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webspirit.pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webspirit.pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webspirit.pro" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -239,18 +234,18 @@
       <option name="presentableId" value="Default" />
       <updated>1469633487762</updated>
       <workItem from="1469633489114" duration="4938000" />
-      <workItem from="1469655154745" duration="2169000" />
+      <workItem from="1469655154745" duration="9721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7107000" />
+    <option name="totallyTimeSpent" value="14659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -336,45 +331,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/back/stylesheets/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5940">
-          <caret line="396" column="16" selection-start-line="396" selection-start-column="12" selection-end-line="396" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="62" column="3" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back/stylesheets/eaglemoor.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#832#838#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -410,21 +371,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/back/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="51" column="4" selection-start-line="22" selection-start-column="6" selection-end-line="51" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/stylesheets/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="396" column="16" selection-start-line="396" selection-start-column="12" selection-end-line="396" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/stylesheets/eaglemoor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="26" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/stylesheets/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mystyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="e#299#2652#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="661">
+          <caret line="179" column="1" selection-start-line="179" selection-start-column="1" selection-end-line="179" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="555">
+          <caret line="37" column="90" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="90" />
+          <folding>
+            <element signature="e#2944#2950#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
