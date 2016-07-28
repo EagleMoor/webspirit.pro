@@ -47,6 +47,7 @@ a:hover {
 @media screen and (min-width: 42em) {
     .page-body {
         padding: 5px;
+        padding-bottom: 32px;
         font-size: 1em;
     }
 }
